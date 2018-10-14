@@ -1,5 +1,6 @@
 # Gamebuino-Classic-Snake-5110
-A Snake game written for the GAMEBUINO Classic (https://gamebuino.com/) and the MAKERbuino (https://www.makerbuino.com/) 
+A Snake game written for the GAMEBUINO Classic (https://gamebuino.com/) and the MAKERbuino (https://www.makerbuino.com/).
+A Gamebuino META version is still in development, but in an early stage. If interested, check out: https://github.com/makerSquirrel/Gamebuino-META-Snake-5110
 
 Another Snake clone (made by Lady Awesome and MakerSquirrel, with modified highscore code found in a R0d0t game ;) ).
 This version orients itself on Snake 1, which was running on the original Nokia 5110 (hence the name ;) )
